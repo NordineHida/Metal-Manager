@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="11">
+      <Unit0>
+        <Filename Value="MetalManager_by_HIDA_DUSZYNSKI_NIEF_PORTKA.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="13" Y="7"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unitmenuprincipalihm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UnitMenuPrincipalIHM"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="751"/>
+        <CursorPos Y="779"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="MetalManager_by_HIDA_DUSZYNSKI_NIEF_PORTKA.lps"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="unitgestiongroupelogic.pas"/>
+        <UnitName Value="unitGestionGroupeLogic"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="468"/>
+        <CursorPos X="65" Y="468"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="unitmenuinitialihm.pas"/>
+        <UnitName Value="UnitMenuInitialIHM"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="45"/>
+        <CursorPos X="24"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="unitmenuinitiallogic.pas"/>
+        <UnitName Value="UnitMenuInitialLogic"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="16"/>
+        <CursorPos X="26"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="GestionEcran.pas"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="24"/>
+        <CursorPos X="60" Y="60"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <UnitName Value="UnitMenuPrincipalLogic"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="102"/>
+        <CursorPos X="77" Y="113"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="unitmusicienlogic.pas"/>
+        <UnitName Value="UnitMusicienLogic"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="133"/>
+        <CursorPos X="23" Y="50"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\nordine units\unitgestiontempslogic.pas"/>
+        <UnitName Value="UnitGestionTempsLogic"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="45" Y="20"/>
+        <UsageCount Value="8"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="unitgestiontempslogic.pas"/>
+        <UnitName Value="UnitGestionTempsLogic"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="86"/>
+        <CursorPos X="112" Y="60"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit10>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="unitmenuprincipalihm.pas"/>
+        <Caret Line="71" Column="35" TopLine="61"/>
+      </Position1>
+      <Position2>
+        <Filename Value="unitmenuprincipalihm.pas"/>
+        <Caret Line="84" Column="31" TopLine="61"/>
+      </Position2>
+      <Position3>
+        <Filename Value="unitmenuprincipalihm.pas"/>
+        <Caret Line="44" Column="35" TopLine="28"/>
+      </Position3>
+      <Position4>
+        <Filename Value="unitmenuprincipalihm.pas"/>
+        <Caret Line="71" Column="35" TopLine="45"/>
+      </Position4>
+      <Position5>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="110" Column="72" TopLine="101"/>
+      </Position5>
+      <Position6>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="35" Column="15" TopLine="19"/>
+      </Position6>
+      <Position7>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="38" Column="15" TopLine="19"/>
+      </Position7>
+      <Position8>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="40" Column="15" TopLine="19"/>
+      </Position8>
+      <Position9>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="42" Column="15" TopLine="19"/>
+      </Position9>
+      <Position10>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="43" Column="17" TopLine="19"/>
+      </Position10>
+      <Position11>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="51" Column="47" TopLine="25"/>
+      </Position11>
+      <Position12>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="52" Column="46" TopLine="44"/>
+      </Position12>
+      <Position13>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="53" Column="46" TopLine="44"/>
+      </Position13>
+      <Position14>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="54" Column="46" TopLine="44"/>
+      </Position14>
+      <Position15>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="55" Column="46" TopLine="44"/>
+      </Position15>
+      <Position16>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="56" Column="46" TopLine="44"/>
+      </Position16>
+      <Position17>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="57" Column="46" TopLine="44"/>
+      </Position17>
+      <Position18>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="58" Column="18" TopLine="44"/>
+      </Position18>
+      <Position19>
+        <Filename Value="unitmenuprincipalihm.pas"/>
+        <Caret Line="377" Column="71" TopLine="374"/>
+      </Position19>
+      <Position20>
+        <Filename Value="unitmenuprincipalihm.pas"/>
+        <Caret Line="76" Column="68" TopLine="70"/>
+      </Position20>
+      <Position21>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="82" Column="31" TopLine="68"/>
+      </Position21>
+      <Position22>
+        <Filename Value="unitgestiongroupelogic.pas"/>
+        <Caret Line="132" Column="26" TopLine="116"/>
+      </Position22>
+      <Position23>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="20" Column="31" TopLine="4"/>
+      </Position23>
+      <Position24>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="127" Column="30" TopLine="101"/>
+      </Position24>
+      <Position25>
+        <Filename Value="unitmenuprincipalihm.pas"/>
+        <Caret Line="50" Column="28" TopLine="41"/>
+      </Position25>
+      <Position26>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="127" Column="30" TopLine="101"/>
+      </Position26>
+      <Position27>
+        <Filename Value="unitmenuprincipalihm.pas"/>
+        <Caret Line="771" Column="28" TopLine="749"/>
+      </Position27>
+      <Position28>
+        <Filename Value="unitmenuprincipalihm.pas"/>
+        <Caret Line="50" Column="28" TopLine="34"/>
+      </Position28>
+      <Position29>
+        <Filename Value="unitmenuprincipalihm.pas"/>
+        <Caret Line="771" Column="28" TopLine="745"/>
+      </Position29>
+      <Position30>
+        <Filename Value="unitmenuprincipallogic.pas"/>
+        <Caret Line="113" Column="77" TopLine="102"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="3">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="unitmenuprincipalihm.pas"/>
+        <Line Value="777"/>
+      </Item1>
+      <Item2>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="unitmenuprincipalihm.pas"/>
+        <Line Value="778"/>
+      </Item2>
+      <Item3>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="unitmenuprincipalihm.pas"/>
+        <Line Value="779"/>
+      </Item3>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
